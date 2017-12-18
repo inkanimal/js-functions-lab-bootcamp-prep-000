@@ -5,11 +5,11 @@ function happyHolidays(){
 happyHoidays()
 
 function happyHolidaysTo(name){
-  console.log("Happy Holidays, ${name}")
+  return `Happy Holidays, ${name}`
 }
 happyHolidaysTo("Geoff")
 
 function happyHolidayTo(holiday, name) {
-  console.log("Happy ${holiday}, ${name}!")
+  return `Happy ${holiday}, ${name}!`
 }
 happyHolidaysTo("New Year", "Geoff")
