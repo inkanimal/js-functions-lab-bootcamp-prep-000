@@ -12,4 +12,4 @@ happyHolidaysTo("Geoff")
 function happyHolidayTo(holiday, name) {
   console.log("Happy ${holiday}, ${name}!")
 }
-happyHolidaysTo(New Year, Geoff)
+happyHolidaysTo("New Year", "Geoff")
