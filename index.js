@@ -16,4 +16,3 @@ function happyHoliaysTo(holiday, name) {
 function holidayCountdown(numbeOfDays, holidayName){
   return `It's ${numberOfDays} days until ${holidayName}!`
 }
-  
